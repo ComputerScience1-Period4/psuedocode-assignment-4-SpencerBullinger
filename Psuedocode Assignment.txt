@@ -50,7 +50,7 @@ Continue on through multiple rounds.
 
 If: One player has no cards:
 	
-	The opposing player wins.
+	The ohter player wins.
 	
 		Else:
 	
